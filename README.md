@@ -1,8 +1,7 @@
 # FX Converter
 
 ## Developer Details
-- Name: 
-- Student ID: 
+lecs
 
 ## Description
 This web application performs currency conversion using the Frankfurter API. It allows users to select two currencies and an amount to be converted. Users can fetch the latest conversion rate or a historical rate for a specific date. The app also calculates the inverse conversion rate.
